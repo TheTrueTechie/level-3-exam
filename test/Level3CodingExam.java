@@ -65,6 +65,9 @@ public class Level3CodingExam {
 
 		assertEquals(2, new HashMapCalculator().commonKeyValuePairs(hashmap1, hashmap2));
 	}
+	
+	
+	
 }
 
 
